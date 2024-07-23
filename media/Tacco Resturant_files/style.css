@@ -1,0 +1,143 @@
+*
+{
+    padding:10px;
+    margin: 10px;
+}
+
+.b
+{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu
+{
+    background-color: blueviolet;
+    
+    
+}
+.li
+{
+    
+    width: 100%;
+    display: inline;
+    list-style-type: none;
+    height: 20px;
+    padding: 3%;
+    transition: 2s;
+     background-color: blueviolet;
+    
+}
+.li a{
+   
+    color:blue;
+    text-decoration: none;
+    transition: 2s;
+}
+.li a:hover
+{
+    background-color: wheat;
+    color: red;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.img-div
+{
+    float: left;
+    width: 50%;
+
+}
+.p
+{
+    background-color: yellow;
+    float: left;
+    width: 30%;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+.q
+{
+    background-color: yellow;
+    width: 30%;
+    text-align: center;
+    margin-top: 5%; 
+    float: left;
+    margin-left: 5%;
+}
+.p1
+{
+    background-color: azure;
+    float: left;
+    width: 20%;
+    height: 180px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+   
+}
+.p2
+{ 
+     background-color: azure;
+     float: left ;
+    width: 20%;
+    height: 180px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+}
+.p3
+{
+    
+    background-color: azure;
+    float: left ;
+   width: 20%;
+   height: 180px;
+   text-align: center;
+   padding-top: 30px;
+   font-family: cursive;
+}
+.p4
+{
+    background-color: azure;
+    float: left ;
+   width: 20%;
+   height: 180px;
+   text-align: center;
+   padding-top: 30px;
+   font-family: cursive;
+}
+.w
+{
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right:10%;
+}
+.r
+{
+    clear: both;
+    float: left;
+    background-color:azure;
+    width: 80%;
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.p5
+{
+   float: left;
+   font-family: sans-serif;
+}
+.p6
+{
+    float: left;
+    margin-left: 2%;
+    margin-right: 5%;
+    width: 450px;
+    height: 200px;
+    font-family: cursive;
+}
